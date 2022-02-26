@@ -18,3 +18,4 @@ CSDN：[冷月的CSDN主页](https://blog.csdn.net/silent_M01?spm=1000.2115.3001
 - [学习小笔记-前端-Html（跟b站黑马）](https://blog.csdn.net/silent_M01/article/details/122379627?spm=1001.2014.3001.5501)
 - [学习小笔记-前端-CSS（1）](https://blog.csdn.net/silent_M01/article/details/122397535?spm=1001.2014.3001.5501)
 - [学习小笔记-前端-JS基础](https://blog.csdn.net/silent_M01/article/details/122419605?spm=1001.2014.3001.5501)
+- [字节跳动青训营笔记](https://forum.juejin.cn/youthcamp/user/1698118436133784/post)

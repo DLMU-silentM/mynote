@@ -5,12 +5,16 @@
 ## 一些个人链接
 CSDN：[冷月的CSDN主页](https://blog.csdn.net/silent_M01?spm=1000.2115.3001.5343)
 
+GitHub同内容网址：[GitHub网站](https://github.com/DLMU-silentM/mynote)
+
 ## 考研复试准备笔记
 
 - [编程1](./fushi/编程1.md)
 - [操作系统1](./fushi/操作系统1.md)
 - [操作系统2](./fushi/操作系统2.md)
 - [操作系统3](./fushi/操作系统3.md)
+- [操作系统4](./fushi/操作系统4.md)
+- [离散数学1](./fushi/离散数学1.md)
 
 ## 归档学习笔记
 - [复健型力扣刷题笔记d1](https://blog.csdn.net/silent_M01/article/details/122299045?spm=1001.2014.3001.5501)
